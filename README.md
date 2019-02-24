@@ -1,6 +1,6 @@
-# Llaja Club
+# Llaja Club Website
 
-The wizard installation is a recommended way to install October. It is simpler than the command-line installation and doesn't require any special skills.
+The wizard installation is a recommended way to install Llajwa Clun. It is simpler than the command-line installation and doesn't require any special skills.
 
 
 ## Minimum System Requirements
