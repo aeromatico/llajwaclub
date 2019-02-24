@@ -1,0 +1,48 @@
+1550974722a:1:{s:21:"portada/seccion-0.htm";a:6:{s:8:"fileName";s:21:"portada/seccion-0.htm";s:7:"content";s:986:"==
+<div class="section" id="section0">
+    <div class="content">
+       <div class="columns">
+          <div class="column is-8 is-offset-2">
+             <img src="{{'assets/img/logo.svg' | theme}}" class="aeroImg50ph">
+             <h2 class="is-size-2-fullhd is-size-3-widescreen is-size-4-desktop is-size-5-touch is-size-5-tablet is-size-6-mobile">SOLUCIONES CORPORATIVAS INTELIGENTES</h2>
+             <p>¡Ahora pruebe con llajwa!</p>
+             <p>
+                <a href="https://m.me/LlajwaClub" target="_blank" class="button is-danger is-outlined  is-medium">
+                <i class="fab fa-facebook-messenger"></i> &nbsp; Iniciar chat
+                </a>                        
+             </p>
+             <span class="scroll-btn">
+             <a href="#">
+             <span class="mouse">
+             <span>
+             </span>
+             </span>
+             </a>
+             </span>
+          </div>
+       </div>
+    </div>
+ </div>";s:5:"mtime";i:1550971853;s:6:"markup";s:983:"<div class="section" id="section0">
+    <div class="content">
+       <div class="columns">
+          <div class="column is-8 is-offset-2">
+             <img src="{{'assets/img/logo.svg' | theme}}" class="aeroImg50ph">
+             <h2 class="is-size-2-fullhd is-size-3-widescreen is-size-4-desktop is-size-5-touch is-size-5-tablet is-size-6-mobile">SOLUCIONES CORPORATIVAS INTELIGENTES</h2>
+             <p>¡Ahora pruebe con llajwa!</p>
+             <p>
+                <a href="https://m.me/LlajwaClub" target="_blank" class="button is-danger is-outlined  is-medium">
+                <i class="fab fa-facebook-messenger"></i> &nbsp; Iniciar chat
+                </a>                        
+             </p>
+             <span class="scroll-btn">
+             <a href="#">
+             <span class="mouse">
+             <span>
+             </span>
+             </span>
+             </a>
+             </span>
+          </div>
+       </div>
+    </div>
+ </div>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}
